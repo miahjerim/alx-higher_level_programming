@@ -1,6 +1,5 @@
 #!/usr/bin/python3
 # import function and print the results
-
 if __name__ == "__main__":
     from add_0 import add
 
